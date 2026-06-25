@@ -1,9 +1,3 @@
----
-noteId: "06796f6070b111f19ec49d9bd6d884a1"
-tags: []
-
----
-
 # Bank Customer Churn Analytics
 
 ## Project Overview
