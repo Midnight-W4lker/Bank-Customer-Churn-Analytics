@@ -1,5 +1,10 @@
 # Bank Customer Churn Analytics
 
+## Web Report
+
+A static web representation is available in `docs/index.html`. After enabling GitHub Pages from the `docs` folder, it can be viewed as a project report page.
+
+
 ## Project Overview
 
 This project analyzes customer churn for a bank and builds a predictive workflow for retention planning. The notebook studies which customer attributes are associated with leaving the bank and compares interpretable and nonlinear classification models.
